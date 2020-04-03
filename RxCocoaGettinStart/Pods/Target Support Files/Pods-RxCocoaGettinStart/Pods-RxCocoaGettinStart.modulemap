@@ -1,0 +1,6 @@
+framework module Pods_RxCocoaGettinStart {
+  umbrella header "Pods-RxCocoaGettinStart-umbrella.h"
+
+  export *
+  module * { export * }
+}
